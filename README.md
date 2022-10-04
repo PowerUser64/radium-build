@@ -1,8 +1,8 @@
-# Radium Builder
+# [Radium](http://users.notam02.no/~kjetism/radium/) Builder
 
 This repository contains a docker image and some shell scripts that should make
 it easy to compile the [Radium
-Tracker/DAW](https://github.com/kmatheussen/radium).
+Tracker/DAW](http://users.notam02.no/~kjetism/radium/).
 
 ### General Use
 
